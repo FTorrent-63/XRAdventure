@@ -1,0 +1,75 @@
+# ========== IGNORAR VISUAL STUDIO ==========
+.vs/
+
+# ========== UNITY ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Evitar paquetes cache
+[Pp]ackages/com.unity.package-manager-ui/
+[Pp]ackages/com.unity.collabproxy/
+[Pp]ackages/packages-lock.json
+
+# Plugin de test
+[Tt]estResults/
+
+# Cache de gradle y Android
+.gradle/
+gradle/
+*.gradle
+
+# ========== ARCORE ==========
+Assets/GoogleARCore/Examples/
+Assets/GoogleARCore/SDK/Plugins/Android/arcore_unity*.aar
+Assets/GoogleARCore/SDK/Plugins/Android/arcore-client*.aar
+Assets/GoogleARCore/SDK/Plugins/iOS/ARCore.framework
+
+# Resolver de Google
+Assets/ExternalDependencyManager/
+Assets/Plugins/Android/*resolver*/
+Assets/Plugins/Android/*support*/
+Assets/Plugins/Android/*resources*/
+
+# ========== ANDROID BUILD ==========
+*.apk
+*.aab
+*.keystore
+*.jks
+Library/PlayerDataCache/
+
+# ========== iOS ==========
+*.xcworkspace
+*.xcuserstate
+*.xcassets
+*.xcodeproj/*
+*.pbxproj
+DerivedData/
+
+# ========== VISUAL STUDIO / RIDER ==========
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.pdb
+*.opendb
+*.VC.db
+.idea/
+*.sln.iml
+
+# ========== SISTEMA ==========
+.DS_Store
+Thumbs.db
+
+# ========== OTROS ==========
+*.swp
+*.lock
