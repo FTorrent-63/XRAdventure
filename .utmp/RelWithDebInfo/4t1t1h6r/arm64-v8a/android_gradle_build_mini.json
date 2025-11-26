@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\PT63\\DES.VDJG\\Des.Motores\\Proyectos\\XRAdventure\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\PT63\\DES.VDJG\\Des.Motores\\Proyectos\\XRAdventure\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\GameActivity\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.60f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\PT63\\DES.VDJG\\Des.Motores\\Proyectos\\XRAdventure\\.utmp\\RelWithDebInfo\\4t1t1h6r\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.60f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\PT63\\DES.VDJG\\Des.Motores\\Proyectos\\XRAdventure\\.utmp\\RelWithDebInfo\\4t1t1h6r\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "artifactName": "game",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\PT63\\DES.VDJG\\Des.Motores\\Proyectos\\XRAdventure\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\4t1t1h6r\\obj\\arm64-v8a\\libgame.so",
+      "runtimeFiles": []
+    }
+  }
+}

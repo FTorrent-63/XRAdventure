@@ -1,0 +1,2 @@
+C:\Users\PT63\DES.VDJG\Des.Motores\Proyectos\XRAdventure\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\PT63\DES.VDJG\Des.Motores\Proyectos\XRAdventure\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
