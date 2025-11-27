@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 804d59381fe72b248bc539b6a3e99a5d, type: 3}
+  m_Name: Blaziken
+  m_EditorClassIdentifier: 
+  ItemName: Blaziken
+  ItemImage: {fileID: 21300000, guid: 8c133d286e5209f4faa94db1e6ff7546, type: 3}
+  ItemDescription: Blaziken
+  Item3DModel: {fileID: 9176345987329023722, guid: 6c6a111bf4ddf5149a3625db28e474a6, type: 3}
