@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Blaziken
   m_EditorClassIdentifier: 
   ItemName: Blaziken
-  ItemImage: {fileID: 21300000, guid: 8c133d286e5209f4faa94db1e6ff7546, type: 3}
+  ItemImage: {fileID: 21300000, guid: 4e5c1b45e106ea347971e66e48f9c95e, type: 3}
   ItemDescription: Blaziken
   Item3DModel: {fileID: 9176345987329023722, guid: 6c6a111bf4ddf5149a3625db28e474a6, type: 3}

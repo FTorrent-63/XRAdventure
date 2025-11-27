@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Poliwrath
   m_EditorClassIdentifier: 
   ItemName: Poliwrath
-  ItemImage: {fileID: 21300000, guid: 77c3d58acc3bb4544a86e6de6dcc8cdb, type: 3}
+  ItemImage: {fileID: 21300000, guid: 76739a8f1ac64e24eb8412ca966414f0, type: 3}
   ItemDescription: Poliwrath
   Item3DModel: {fileID: 6826831770573257715, guid: 3197356db06a5104b86fedabbfa08c27, type: 3}

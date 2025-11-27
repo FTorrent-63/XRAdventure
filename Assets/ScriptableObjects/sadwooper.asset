@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 804d59381fe72b248bc539b6a3e99a5d, type: 3}
   m_Name: sadwooper
   m_EditorClassIdentifier: 
-  ItemName: sadwooper
-  ItemImage: {fileID: 21300000, guid: 97dadca511168f943b317698fe3a91cd, type: 3}
-  ItemDescription: sadwooper
+  ItemName: Wooper Triste
+  ItemImage: {fileID: 21300000, guid: 4657327971ad7e5409bfa900e6cb9630, type: 3}
+  ItemDescription: Wooper Triste
   Item3DModel: {fileID: 6028891431753602150, guid: d47c95e0cc0ddd9429de36b3de9cb14e, type: 3}

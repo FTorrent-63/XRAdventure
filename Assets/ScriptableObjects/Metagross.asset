@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Metagross
   m_EditorClassIdentifier: 
   ItemName: Metagross
-  ItemImage: {fileID: 21300000, guid: 5d3222be019cb464b89913131ce70b23, type: 3}
+  ItemImage: {fileID: 21300000, guid: fef8a7482b4c9ac47854c267733aab72, type: 3}
   ItemDescription: Metagross
   Item3DModel: {fileID: 3815539185093352702, guid: b94322c46f555a847be59773f79213f3, type: 3}

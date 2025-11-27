@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Eevee
   m_EditorClassIdentifier: 
   ItemName: Eevee
-  ItemImage: {fileID: 21300000, guid: 3bf2a647a33b18849b26b0a84f0d477d, type: 3}
+  ItemImage: {fileID: 21300000, guid: b18b93aee07fa0c4b95f4046e50397c6, type: 3}
   ItemDescription: Eevee
   Item3DModel: {fileID: 7507752276692870935, guid: f3015b39b6cfb344eb5cfb2411a31f8b, type: 3}
