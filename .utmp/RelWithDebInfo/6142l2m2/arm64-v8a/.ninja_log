@@ -1,0 +1,19 @@
+# ninja log v5
+35	18041	7861143344192901	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b7f227d52da4ea89
+46	18052	7861143344192901	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	70fbbd8dcac7a54
+23	18088	7861143344681796	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	49bbb985821f9171
+18509	18674	7861143350591646	C:/Users/djsek/Desktop/Videojuegos/Unity/Realidad Virtual/XRAdventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6142l2m2/obj/arm64-v8a/libgame.so	8a42e98f28fd64fc
+88	18509	7861143348906252	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3c9022ca513d39dc
+1	18154	7861143345358975	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9985af9741da6363
+77	18106	7861143344868639	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6af782ce63ee4676
+56	18364	7861143347463792	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	351f3ce843ae0216
+12	18485	7861143348678479	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	643adf31380fa940
+74	2000	7861170588684344	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b7f227d52da4ea89
+45	2008	7861170588795391	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	70fbbd8dcac7a54
+33	2037	7861170589136591	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	49bbb985821f9171
+84	2053	7861170589304722	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6af782ce63ee4676
+23	2107	7861170589870119	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9985af9741da6363
+64	2321	7861170591973769	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	351f3ce843ae0216
+54	2391	7861170592583269	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3c9022ca513d39dc
+15	2504	7861170593781630	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	643adf31380fa940
+2505	2670	7861170595495510	C:/Users/djsek/Desktop/Videojuegos/Unity/Realidad Virtual/XRAdventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6142l2m2/obj/arm64-v8a/libgame.so	8a42e98f28fd64fc

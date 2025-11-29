@@ -15,4 +15,4 @@ MonoBehaviour:
   ItemName: Wooper Triste
   ItemImage: {fileID: 21300000, guid: 4657327971ad7e5409bfa900e6cb9630, type: 3}
   ItemDescription: Wooper Triste
-  Item3DModel: {fileID: 6028891431753602150, guid: d47c95e0cc0ddd9429de36b3de9cb14e, type: 3}
+  Item3DModel: {fileID: 3314401397826965576, guid: d47c95e0cc0ddd9429de36b3de9cb14e, type: 3}

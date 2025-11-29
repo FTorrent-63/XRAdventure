@@ -1,0 +1,2 @@
+C:\Users\djsek\Desktop\Videojuegos\Unity\Realidad Virtual\XRAdventure\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\djsek\Desktop\Videojuegos\Unity\Realidad Virtual\XRAdventure\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

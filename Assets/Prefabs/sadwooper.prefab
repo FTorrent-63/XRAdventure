@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6028891431753602150
+--- !u!1 &3314401397826965576
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,38 +8,38 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2651553030796987716}
-  - component: {fileID: 117531202705962126}
+  - component: {fileID: 7929392803406037093}
+  - component: {fileID: -6494024404000965647}
   m_Layer: 0
-  m_Name: sadwooper
-  m_TagString: Item
+  m_Name: SadWooper
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &2651553030796987716
+--- !u!4 &7929392803406037093
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6028891431753602150}
+  m_GameObject: {fileID: 3314401397826965576}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.23160028, y: 2.3974905, z: -0.30422926}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 8651254536007578657}
+  - {fileID: 1591663913697515020}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &117531202705962126
+--- !u!65 &-6494024404000965647
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6028891431753602150}
+  m_GameObject: {fileID: 3314401397826965576}
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -52,27 +52,27 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.19739045, y: 0.2021451, z: 0.12340069}
-  m_Center: {x: -0.22985995, y: -2.3028486, z: 0.28511685}
---- !u!1001 &9188987385370285002
+  m_Size: {x: 0.18312043, y: 0.197287, z: 0.36706114}
+  m_Center: {x: -0.0050500333, y: 0.09703611, z: -0.31646943}
+--- !u!1001 &1268889852125049319
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 2651553030796987716}
+    m_TransformParent: {fileID: 7929392803406037093}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: a90e3d567d4e48941b6af18e3da8c48b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.23160028
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a90e3d567d4e48941b6af18e3da8c48b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.3974905
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a90e3d567d4e48941b6af18e3da8c48b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.30422926
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a90e3d567d4e48941b6af18e3da8c48b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -111,8 +111,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a90e3d567d4e48941b6af18e3da8c48b, type: 3}
---- !u!4 &8651254536007578657 stripped
+--- !u!4 &1591663913697515020 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a90e3d567d4e48941b6af18e3da8c48b, type: 3}
-  m_PrefabInstance: {fileID: 9188987385370285002}
+  m_PrefabInstance: {fileID: 1268889852125049319}
   m_PrefabAsset: {fileID: 0}
