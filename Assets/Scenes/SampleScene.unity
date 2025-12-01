@@ -534,7 +534,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 476894.75, y: 14015.248}
+  m_AnchoredPosition: {x: 676027.94, y: 20046.318}
   m_SizeDelta: {x: 0, y: 440}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &396345795
@@ -1663,6 +1663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1154488274}
   - component: {fileID: 1154488275}
+  - component: {fileID: 1154488276}
   m_Layer: 0
   m_Name: DataManager
   m_TagString: Untagged
@@ -1707,6 +1708,23 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ccab0db4ee26d9d458f854aeb8da522f, type: 2}
   buttonContainer: {fileID: 396345793}
   itemButtonManager: {fileID: 7602892107865987043, guid: 834a772709aa1e74c803d78b15889d9e, type: 3}
+--- !u!114 &1154488276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1154488273}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c53dd0526ccf0d4f99a4100e9027dde, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jsonURL: https://drive.google.com/uc?export=download&id=1UmyIuGMPJz6vGcjvq6x6eKguAQRzy_DO
+  itemButtonManager: {fileID: 0}
+  buttonsContainer: {fileID: 0}
+  newItemsCollection:
+    items: []
 --- !u!1 &1226036599
 GameObject:
   m_ObjectHideFlags: 0

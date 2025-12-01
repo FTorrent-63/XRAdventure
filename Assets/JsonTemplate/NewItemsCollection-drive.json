@@ -1,0 +1,64 @@
+{
+    "items":[
+        {
+            "Name": "Arcanine",
+            "Description": "Arcanine",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1oOwA9pcIYimToztMEuQ_W9rUu62BxLgY",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=1lTZlwImhhfvm7gIfyA92YTZCshy32Duh"
+        },
+        {
+            "Name": "Metagross",
+            "Description": "Metagross",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1ig87KQ1bnH79fUifyZwlPiLzLpQeBWmT",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=1QV4chrvYs6CCswG7JfYiYev6SBYjzp6B"
+        },
+        {
+            "Name": "Wooper",
+            "Description": "Wooper",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1b4eISLEF0mU8VAKg34Hg8SZuUixgSVCl",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=1-TtEyupvmy2B23xPU8bMzGu1dBFl7KEk"
+        },
+        {
+            "Name": "Blaziken",
+            "Description": "Blaziken",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1afIwwcEtLYf_GfMZ4XxuhbRav9XM6BuJ",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=15VS47CyFcMiBZMRTUNlikoWYQU8gNK07"
+        },
+        {
+            "Name": "Eevee",
+            "Description": "Eevee",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1_oT1c35AlvPOH00LSijDW03egfZj6yaK",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=1PSokEXcYhYLGYQTHmbzf9OjpUtL1SNe_"
+        },
+        {
+            "Name": "Poliwrath",
+            "Description": "Poliwrath",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1_UPGx7Veb1rtTczPnE9DD9q6ITPYSUrd",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=16UcazfQGsgchx6nlUnpeZ5nCCTMtnXsg"
+        },
+        {
+            "Name": "Pelipper",
+            "Description": "Pelipper",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1J0mW2rgglHCYstcsIp8YZMXpkMpHlcXN",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=15DMS4kC23zZqrhm7Aso8P29lTkvgIWZD"
+        },
+        {
+            "Name": "Desk",
+            "Description": "Desk",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=1eBpwNC1bFWPLs6atksz_64F91mRIuyZ9",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=1VGLoX5I2QynJGDdh31EH7XJ9iplQnEx8"
+        },
+        {
+            "Name": "Chair",
+            "Description": "Chair",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=17a3VgVjrFhZqYFUTeVUcZ2N7ddcezNeD",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=1H7lo1gP3iGFT9Mywf7OljsKh6gPJO97q"
+        },
+        {
+            "Name": "Painttable",
+            "Description": "Painttable",
+            "URLBundleModel": "https://drive.google.com/uc?export=download&id=10jomg9LXpd5vmwKfH7LuqrMzRvyAe5I1",
+            "URLImageModel" : "https://drive.google.com/uc?export=download&id=1mSCWGkMVqQc7fngMxYSUeasc4tdB1oi8"
+        }
+    ]
+}
