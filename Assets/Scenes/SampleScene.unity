@@ -534,7 +534,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 676027.94, y: 20046.318}
+  m_AnchoredPosition: {x: 721727.7, y: 21292.875}
   m_SizeDelta: {x: 0, y: 440}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &396345795
@@ -1693,7 +1693,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1154488273}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 60c03872f3267da439bad28999ad315b, type: 3}
   m_Name: 
@@ -1715,14 +1715,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1154488273}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5c53dd0526ccf0d4f99a4100e9027dde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   jsonURL: https://drive.google.com/uc?export=download&id=1UmyIuGMPJz6vGcjvq6x6eKguAQRzy_DO
-  itemButtonManager: {fileID: 0}
-  buttonsContainer: {fileID: 0}
+  itemButtonManager: {fileID: 7602892107865987043, guid: 834a772709aa1e74c803d78b15889d9e, type: 3}
+  buttonsContainer: {fileID: 396345793}
   newItemsCollection:
     items: []
 --- !u!1 &1226036599
