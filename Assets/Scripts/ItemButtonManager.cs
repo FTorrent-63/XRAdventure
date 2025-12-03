@@ -37,7 +37,7 @@ public class ItemButtonManager : MonoBehaviour
         button.onClick.AddListener(GameManager.Instance.ARPosition);
         button.onClick.AddListener(Create3DModel);
 
-        interactionManager = FindObjectOfType<ARInteractionManager>();
+        interactionManager = FindFirstObjectByType<ARInteractionManager>();
     }
 
     private void Create3DModel()

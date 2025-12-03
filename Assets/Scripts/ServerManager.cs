@@ -42,7 +42,7 @@ public class ServerManager : MonoBehaviour
             itemButton.ItemName = item.Name;
             itemButton.ItemDescription = item.Description;
             itemButton.URLBundleModel = item.URLBundleModel;
-            StartCoroutine(GetBundleImage(item.URLBundleModel, itemButton));
+            StartCoroutine(GetBundleImage(item.URLImageModel, itemButton));
         }
         GameManager.Instance.OnItemsMenu -= CreateButtons;
 
@@ -66,6 +66,7 @@ public class ServerManager : MonoBehaviour
         UnityWebRequest serverRequest = UnityWebRequest.Get(urlImage);
         serverRequest.downloadHandler = new DownloadHandlerTexture();
         yield return serverRequest.SendWebRequest();
+        Debug.Log(serverRequest);
         if (serverRequest.result == UnityWebRequest.Result.Success)
         {
             button.ImageBundle.texture = ((DownloadHandlerTexture)serverRequest.downloadHandler).texture;
