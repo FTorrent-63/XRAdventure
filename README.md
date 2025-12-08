@@ -133,7 +133,12 @@ Toca la pantalla sobre la superficie detectada para colocar el Pokémon seleccio
 
 ## ✉️ Contacto
 
-👤 **Autor:** David Jiménez Villena / Francisco Torres Puche
-🐙 **GitHub:** https://github.com/djsekai34 / https://github.com/FTorrent-63  
+👤 **Autor:**  
+- David Jiménez Villena  
+- Francisco Torres Puche  
+
+🐙 **GitHub:**  
+- [djsekai34](https://github.com/djsekai34)  
+- [FTorrent-63](https://github.com/FTorrent-63)  
 
 ---
