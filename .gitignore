@@ -38,6 +38,7 @@ Assets/Plugins/Android/*resources*/
 
 # ========== ANDROID BUILD ==========
 *.apk
+!/Apk/*.apk
 *.aab
 *.keystore
 *.jks
