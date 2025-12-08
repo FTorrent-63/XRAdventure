@@ -7,7 +7,7 @@ La aplicación aprovecha la **potencia de la nube** para cargar modelos 3D diná
 
 Explora tu entorno, detecta superficies reales y coloca Pokémon 3D que puedes **mover, girar e inspeccionar desde cualquier ángulo**.
 
-👥 Proyecto desarrollado en colaboración por **David Jiménez Villena** y **ZZZ** alumnos del Curso de Especialización en Desarrollo de videojuegos y realidad virtual
+👥 Proyecto desarrollado en colaboración por **David Jiménez Villena** y **Francisco Torres Puche** alumnos del Curso de Especialización en Desarrollo de videojuegos y realidad virtual
 
 ---
 
@@ -133,7 +133,7 @@ Toca la pantalla sobre la superficie detectada para colocar el Pokémon seleccio
 
 ## ✉️ Contacto
 
-👤 **Autor:** David Jiménez Villena /  
+👤 **Autor:** David Jiménez Villena / Francisco Torres Puche
 🐙 **GitHub:** https://github.com/djsekai34 / https://github.com/FTorrent-63  
 
 ---
